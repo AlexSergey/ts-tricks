@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "checkJs": true,
+    "allowJs": true,
+    "outDir": "src/types",
+    "noEmit": true
+  },
+  "include": [
+    "src/**/*.js"
+  ]
+}
