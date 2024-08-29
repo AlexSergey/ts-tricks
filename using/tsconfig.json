@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "checkJs": true,
+    "allowJs": true,
+    "outDir": "src/types",
+    "noEmit": true,
+    "lib": ["es2015"]
+  },
+  "include": [
+    "src/**/*.js"
+  ]
+}
